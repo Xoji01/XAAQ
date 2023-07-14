@@ -100,6 +100,6 @@ else{b.push(item)}
 } 
 
 console.log(companies)
-console.log('плюс', a)
-console.log('минус', b)
+console.log('плюс', a, 'минус', b)
+
 // Посчитать месячцные расходы каждой компании и сохранить в новом ключе expensesPerMonth
